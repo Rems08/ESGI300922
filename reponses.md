@@ -42,7 +42,7 @@ git checkout b30306e502b99aabab256a5d2f68e8d50ba5072a /assets/vendor/javascript-
 - Pour ajouter ma licence je:
   - Créer un fichier dans le dossier "_licenses"
   - ```git add _licenses/remy-massiet-1.0```
-  - ```git commit -m "Add Rémy MASSIET licence"
+  - ```git commit -m "Add Rémy MASSIET licence"```
 - Pour vérifier si on est à jour par rapport au dépot distant on fera un: 
 ```git
 git pull
